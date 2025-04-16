@@ -13,7 +13,8 @@ This game was created as a school project and was tested to run in a Linux VM wi
     ```
 3. Use cmake to build the game by running cmake in the project directory:
     ```bash
-    cmake .
+    cd build/
+    cmake ..
     cmake --build .
     ```
 
